@@ -1,16 +1,24 @@
-## Hi there 👋
+# 你好，我是Vedaru👋
 
-<!--
-**Vedaru/Vedaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一名编程初学者，目前主要学习与实践 Python、C++ 以及基础的深度学习与计算机视觉。这个仓库用于记录我的学习进度、练习项目与一些有趣的尝试。
+![Visitor Count](https://komarev.com/ghpvc/?username=username&color=blue)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 关于我
+
+- 喜欢尝试新技术，保持好奇心与耐心
+- 偏爱用 VS Code 学习与写代码，逐步养成良好代码习惯
+- 正在建立自己的知识体系：从语言基础 → 算法与数据结构 → 工程实践
+
+## 正在学习
+
+- 计算机基础：数据结构与算法、操作系统基础
+- AI 基础：神经网络、卷积网络、训练与调试流程
+- 工程实践：项目组织、代码风格、测试与文档
+
+## 声明
+
+本仓库主要用于学习与个人练习，不保证所有代码在生产环境可用。如有错误欢迎指出与交流。
+
+---
