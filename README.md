@@ -1,7 +1,6 @@
 # 你好，我是Vedaru👋
 
 我是一名编程初学者，目前主要学习与实践 Python、C++ 以及基础的深度学习与计算机视觉。这个仓库用于记录我的学习进度、练习项目与一些有趣的尝试。
-![Visitor Count](https://komarev.com/ghpvc/?username=username&color=blue)
 
 ---
 
